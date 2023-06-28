@@ -25,7 +25,7 @@
 
     <meta name=”robots” content=”noindex”/>
 
-    <link rel="shortcut icon" href="{{ asset('/favicon.ico') }}">
+    <link rel="shortcut icon" href="{{ asset('/members.ico') }}">
 </head>
 <body>
     <div id="app">
