@@ -39,7 +39,6 @@ class PostController extends Controller
         $inputs = $request->validate([
             'title' => 'required|max:255',
             'body' => 'required|max:255',
-            'image' => 'required|max:1024'
         ]);
         $post = new Post();
         $post->title = $inputs['title'];
