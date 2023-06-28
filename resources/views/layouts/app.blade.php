@@ -24,6 +24,8 @@
     <script src="https://kit.fontawesome.com/851e33461c.js" crossorigin="anonymous"></script>
 
     <meta name=”robots” content=”noindex”/>
+
+    <link rel="shortcut icon" href="{{ asset('/favicon.ico') }}">
 </head>
 <body>
     <div id="app">
